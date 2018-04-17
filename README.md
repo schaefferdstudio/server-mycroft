@@ -1,7 +1,9 @@
 # server-mycroft
 
 Public interface to get speak via webrequest
+I use this android app with a speak widget 
 
+[https://play.google.com/store/apps/details?id=schaefferdstudio.voicecontrolweb](https://play.google.com/store/apps/details?id=schaefferdstudio.voicecontrolweb)
 # Changes:
 Enter the codes which you allow to request mycroft
 - `codes = ['xxxx', 'xxxx']`
